@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  header h1 {
+    text-align: center;
+    font-size: 2em;
+  }
+  
+  nav {
+    /* Style your navigation bar here */
+  }
+  
+  main {
+    padding: 50px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  .about-us p {
+    line-height: 1.5;
+  }
+  
+  .team {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  /* Add styles for team member details */
+  
+  footer {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 10px;
+  }
+  
